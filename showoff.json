@@ -1,0 +1,18 @@
+{ "name": "Learning by reading other people's code", 
+	"sections": 
+		[ 
+			{"section":"title"},
+			{"section":"about_me"},
+			{"section":"overall_goal"},
+			{"section":"why_to_read"},
+			{"section":"code"},
+			{"section":"pleasurepain"},
+			{"section":"programmers"},
+			{"section":"documentation"},
+			{"section":"opensource"},
+			{"section":"waystoread"},
+			{"section":"howtoread"},
+			{"section":"whattoread"},
+			{"section":"thanks"}
+		]
+}

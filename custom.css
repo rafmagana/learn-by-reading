@@ -1,0 +1,104 @@
+strong.emphasis {
+ 	color: red;
+ }
+
+strong {
+	color: #808000;
+}
+
+em {
+	color: #2554C7;
+	font-style: normal;
+}
+
+.small {
+  font-size: 0.8em
+}
+
+.slide .reason {
+	color: #556B2F;
+	font-weight: bold;
+}
+
+.slide .quote {
+	color: #8B0A50;
+	font-weight: bold;
+}
+
+.slide .reason {
+	color: #CD6600;
+	font-weight: bold;
+}
+
+.slide .big {
+	font-size: 2em;
+}
+
+.slide .medium {
+	font-size: 1.4em;
+}
+
+.slide .tiny {
+	font-size: 0.5em;
+}
+
+.slide .small {
+	font-size: 1.3em;
+}
+
+.slide .wrong {
+	font-size: 4em;
+	color: #CD0000;
+}
+
+.slide .no {
+	font-size: 8em;
+	color: #CD0000;
+}
+
+.slide .single_concept {
+	color: #EE3B3B;
+	font-size: 5em;
+}
+
+.slide .exclamation {
+	color: #FFF;
+	background: #458B00;
+	font-weight: bold;
+	font-size: 2em;
+	padding-top: 250px;
+	height: 100%;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.section {
+	color: #00008B;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.supersection {
+  background: #CD6600;
+  padding-top: 250px;
+  color: #fff;
+  height: 100%;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.bullets ul li {
+    text-align: left;
+    line-height:50%;
+}
+
+.smbullets ul li {
+    text-align: left;
+}
+
+.red {
+	color: red;
+	font-style: normal;	
+}
