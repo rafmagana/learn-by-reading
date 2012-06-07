@@ -97,5 +97,3 @@ want to learn ObjC? Read code written in ObjC
 want to learn JS? Read code written in JS  
 want to learn Bash? Read code written in Bash
 </pre>
-
-.notes llevo 18:12 minutos, it doesn't matter if you don't understand it

@@ -49,7 +49,7 @@ Use a whiteboard
 
 !SLIDE big reason
 
-Build a mental model  
+Build a mental map  
 *<span class='tiny'>http://freemind.sourceforge.net</span>*
 
 !SLIDE

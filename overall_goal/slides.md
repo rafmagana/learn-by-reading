@@ -1,6 +1,6 @@
-!SLIDE transition=fade
+!SLIDE big reason
 
-# **Overall goals**
+*Overall goals*
 
 !SLIDE
 

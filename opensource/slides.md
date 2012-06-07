@@ -50,6 +50,11 @@ Verify a bug
 
 Write/Update documentation
 
+!SLIDE wrong
+
+Don't expect  
+anything in return
+
 !SLIDE big reason
 
 Spread the word

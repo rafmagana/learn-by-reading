@@ -29,7 +29,7 @@ write by writing
 
 !SLIDE medium reason
 
-If you write a page a day  
+If you write one page a day  
 your writing skills will not improve
 
 !SLIDE big reason
