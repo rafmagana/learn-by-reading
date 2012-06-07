@@ -29,7 +29,27 @@ advanced search
 
 !SLIDE big reason
 
+Write minimal applications
+
+!SLIDE
+
+<img src="../images/minimal_01.png" width="900px" />
+
+!SLIDE
+
+<img src="../images/minimal_02.png" width="900px" />
+
+!SLIDE
+
+<img src="../images/minimal_03.png" width="900px" />
+
+!SLIDE big reason
+
 IRC freenode
+
+!SLIDE big reason
+
+email and twitter
 
 !SLIDE big reason
 
